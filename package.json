@@ -1,7 +1,7 @@
 {
   "name": "flatten-hash",
-  "version": "0.0.1",
-  "description": "Recuresively flatten nested objects into a hash in dot notation",
+  "version": "0.0.2",
+  "description": "Recursively flatten nested objects into a hash in dot notation",
   "main": "flatten.js",
   "scripts": {
     "prepublish": "coffee -o . --compile src/flatten.coffee; verb",
@@ -20,6 +20,9 @@
     "string"
   ],
   "author": "Andreas Pizsa (http://github.com/AndreasPizsa)",
+  "homepage" : "https://github.com/AndreasPizsa/flatten-hash",
+  "bugs" : "https://github.com/AndreasPizsa/flatten-hash/issues",
+  "repository" : "https://github.com/AndreasPizsa/flatten-hash.git",
   "license": "MIT",
   "devDependencies": {
     "coffee-script": "^1.8.0",

@@ -1,6 +1,6 @@
 # flatten-hash
 
-> Recuresively flatten objects into a hash in dot notation
+> Recursively flatten nested objects into a hash in dot notation
 
 ## Install
 #### Install with [npm](npmjs.org):
