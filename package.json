@@ -1,7 +1,7 @@
 {
   "name": "flatten-hash",
-  "version": "0.0.2",
-  "description": "Recursively flatten nested objects into a hash in dot notation",
+  "version": "0.0.3",
+  "description": "Flatten nested objects to a single level in dot notation",
   "main": "flatten.js",
   "scripts": {
     "prepublish": "coffee -o . --compile src/flatten.coffee",

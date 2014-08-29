@@ -24,3 +24,5 @@ Currently does not work with `Array`s and `RegExp` objects; will throw an error.
 ### See also
 
 [expand-hash](https://github.com/doowb/expand-hash) - Expand hash keys into an object with the given values.
+
+[flat](https://github.com/hughsk/flat) - Flatten/unflatten nested Javascript objects

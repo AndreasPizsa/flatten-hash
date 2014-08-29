@@ -1,7 +1,7 @@
-# flatten-hash ![travis buils status](https://travis-ci.org/AndreasPizsa/flatten-hash.svg?style=flat-squared) ![NPM version](http://img.shields.io/npm/dm/flatten-hash.svg?style=flat-squared)
+# flatten-hash ![travis build status](https://travis-ci.org/AndreasPizsa/flatten-hash.svg?style=flat-squared) ![NPM version](http://img.shields.io/npm/dm/flatten-hash.svg?style=flat-squared)
 
 
-> Recursively flatten nested objects into a hash in dot notation
+> Flatten nested objects to a single level in dot notation
 
 ## Usage
 Use dot notation to flatten nested objects.
@@ -30,6 +30,8 @@ Currently does not work with `Array`s and `RegExp` objects; will throw an error.
 #### See also
 
 [expand-hash](https://github.com/doowb/expand-hash) - Expand hash keys into an object with the given values.
+
+[flat](https://github.com/hughsk/flat) - Flatten/unflatten nested Javascript objects
 
 
 ## Install
