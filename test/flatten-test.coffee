@@ -7,6 +7,7 @@ describe 'flatten', ->
     b: 1234
     c: true
     d: null
+    e: {}
     f: {
       g: "foo"
       h: {

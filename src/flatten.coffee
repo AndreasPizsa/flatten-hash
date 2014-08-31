@@ -11,7 +11,7 @@ flatten = (obj,separator='.')->
       newKey = "#{namespace}#{if namespace then separator else '' }#{key}"
       if _.isPlainObject(value)
         if _.size value then flattenOne(value,newKey,result)
-        else result[newKey] = {}
+        #else result[newKey] = {}
       else
         result[newKey] = value
       return result

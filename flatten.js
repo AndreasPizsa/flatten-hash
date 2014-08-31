@@ -27,8 +27,6 @@
         if (_.isPlainObject(value)) {
           if (_.size(value)) {
             flattenOne(value, newKey, result);
-          } else {
-            result[newKey] = {};
           }
         } else {
           result[newKey] = value;

@@ -1,6 +1,6 @@
 {
   "name": "flatten-hash",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Flatten nested objects to a single level in dot notation",
   "main": "flatten.js",
   "scripts": {
@@ -19,10 +19,16 @@
     "values",
     "string"
   ],
-  "author": "Andreas Pizsa (http://github.com/AndreasPizsa)",
+  "author": {
+      "name":"Andreas Pizsa",
+      "url":"(http://github.com/AndreasPizsa)"
+  },
   "homepage": "https://github.com/AndreasPizsa/flatten-hash",
   "bugs": "https://github.com/AndreasPizsa/flatten-hash/issues",
-  "repository": "https://github.com/AndreasPizsa/flatten-hash.git",
+  "repository": {
+      "type":"git",
+      "url":"https://github.com/AndreasPizsa/flatten-hash.git"
+  },
   "license": "MIT",
   "devDependencies": {
     "coffee-script": "^1.8.0",
