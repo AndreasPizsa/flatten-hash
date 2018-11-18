@@ -1,5 +1,7 @@
 # flatten-hash ![travis build status](https://travis-ci.org/AndreasPizsa/flatten-hash.svg?style=flat-squared) ![NPM version](http://img.shields.io/npm/dm/flatten-hash.svg?style=flat-squared)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/AndreasPizsa/flatten-hash.svg)](https://greenkeeper.io/)
+
 
 > Flatten nested objects to a single level in dot notation
 
