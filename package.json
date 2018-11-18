@@ -32,11 +32,11 @@
   "license": "MIT",
   "devDependencies": {
     "coffee-script": "^1.8.0",
-    "mocha": "^1.21.4",
-    "verb": "^0.2.15",
-    "verb-cli": "^0.3.0"
+    "mocha": "^5.2.0",
+    "verb": "^0.8.10",
+    "verb-cli": "^0.7.4"
   },
   "dependencies": {
-    "lodash": "^2.4.1"
+    "lodash": "^4.17.11"
   }
 }
